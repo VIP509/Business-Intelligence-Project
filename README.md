@@ -25,7 +25,7 @@ your solution will help regain trust from customers?
 
 ## Methodolgy
 #### The bank Dataset
- #### Data processing using Python
+ #### Data processing using Python 3
     #### - Cleaning Data
     #### - Data transformation
     #### - Statistical Analysis
