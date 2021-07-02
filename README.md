@@ -23,6 +23,7 @@ fraudulent act? or ‘category’ of transactions with higher chance to be fraud
 your solution will help regain trust from customers?
 6. Any other data that you would ask the team to provide? Why?
 
+## Methodolgy
 #### The bank Dataset
  #### Data processing using Python
     #### - Cleaning Data
